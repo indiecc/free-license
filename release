@@ -46,3 +46,5 @@ cp "$new_version" "terms/free/$version.md"
 git add "terms/free/$version.md"
 git commit -m "Free License $version"
 git push origin
+
+echo "TODO: Release a new version of the standard deal."
