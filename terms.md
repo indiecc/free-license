@@ -1,9 +1,3 @@
----
-title: Free License
-version: development draft
-summary: terms for free use of projects
----
-
 ## Purpose
 
 This license allows you to use and share this software for [noncommercial purposes](#noncommercial) and [kids' projects](#kids-projects) for free, and to [try the software for commercial projects](#free-trials).  However, you must [give credit](#give-credit) and [share any improvements you make](#share-improvements).

@@ -1,0 +1,30 @@
+#!/bin/sh
+set -e
+
+if ! git diff-index --quiet HEAD; then
+  echo "Working tree is dirty."
+  exit 1
+fi
+
+version="$(git describe --exact-match --tags 2>/dev/null | sed 's/v//')"
+if [ -z "$version" ]; then
+  echo "No version tag."
+  exit 1
+fi
+
+echo "Version $version"
+
+date=$(git show -s --format=%cI HEAD)
+
+mkdir -p build
+cat >"build/$version.md" <<EOS
+---
+title: Free License
+version: $version
+date: $date
+summary: terms for free use of projects
+---
+
+EOS
+
+cat terms.md >> "build/$version.md"
