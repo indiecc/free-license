@@ -27,4 +27,7 @@ summary: terms for free use of projects
 
 EOS
 
-cat terms.md >> "build/$version.md"
+sed '/<!--/d' terms.md |
+  exec sed '/^\s*$/d' |
+  awk 'ORS="\n\n"' |
+  head -n -1 >> "build/$version.md"
