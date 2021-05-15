@@ -31,3 +31,18 @@ sed '/<!--/d' terms.md |
   exec sed '/^\s*$/d' |
   awk 'ORS="\n\n"' |
   head -n -1 >> "build/$version.md"
+
+new_version="$(pwd)/build/$version.md"
+
+tmp=$(mktemp -d)
+cleanup () {
+  rm -rf "$tmp"
+}
+trap cleanup EXIT
+
+git clone git@github.com:indiecc/indiecc.com "$tmp"
+cd "$tmp"
+cp "$new_version" "terms/free/$version.md"
+git add "terms/free/$version.md"
+git commit -m "Free License $version"
+git push origin
