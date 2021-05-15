@@ -10,7 +10,7 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ### Noncommercial
 
-You may not use the software to make money or for work, except for [Free Trials](#free-trials) and [Kids' Projects](#kids-projects).
+You may not use the software in business, to make money, or during paid work, except for [Free Trials](#free-trials) and [Kids' Projects](#kids-projects).
 
 ### Free Trials
 
