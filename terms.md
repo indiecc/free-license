@@ -10,7 +10,13 @@ To receive this license, you have to agree to its rules.  Those rules are both o
 
 ### Noncommercial
 
-You may not use the software to make money or for work, except for [Free Trials](#free-trials) and [Kids' Projects](#kids-projects).
+You may not use the software in business or paid work, except for [Free Trials](#free-trials) and [Kids' Projects](#kids-projects).
+
+<!-- Adapted from PolyForm Noncommercial 1.0.0 -->
+
+### Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, does not count as use in business.
 
 ### Free Trials
 
