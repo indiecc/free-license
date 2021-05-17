@@ -1,6 +1,6 @@
 ## Purpose
 
-This license allows you to use and share this software for [noncommercial purposes](#noncommercial) and [kids' projects](#kids-projects) for free, and to [try the software for commercial projects](#free-trials).  However, you must [give credit](#give-credit) and [share any improvements you make](#share-improvements).
+This license allows you to use and share this software for [noncommercial purposes](#noncommercial) and [kids' projects](#kids-projects) for free, and to [try the software for commercial projects](#free-trials).  However, you have to [give credit](#give-credit) and [share any improvements you make](#share-improvements).
 
 ## Acceptance
 
@@ -30,11 +30,11 @@ Make sure that everyone who gets a copy of any part of the software from you, wi
 
 ### Give Credit
 
-You must give this software and the developer credit for contributing to projects you develop, test, produce, or provide using this software.
+Give this software and the developer credit for contributing to projects you develop, test, produce, or provide using this software.
 
 #### How to Give Credit
 
-You must give credit in such a way that others can freely and readily find a written notice identifying this software and the developer, by name, as contributing to your project.  You must not do anything to stop others from sharing, publishing, or using those credits.
+Give credit in such a way that others can freely and readily find a written notice identifying this software and the developer, by name, as contributing to your project.  Do not do anything to stop others from sharing, publishing, or using those credits.
 
 #### Conventions
 
@@ -46,7 +46,7 @@ If the developer provides their name or the name of this software along with the
 
 #### Declining Credit
 
-On written request from the developer, you must remove their name, the name of this software, or both, as they ask, from credits for your project going forward.
+On written request from the developer, remove their name, the name of this software, or both, as they ask, from credits for your project going forward.
 
 <!-- Adapted from Round Robin -->
 
