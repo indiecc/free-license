@@ -14,7 +14,7 @@ You may not use the software to make money or for work, except for [Free Trials]
 
 ### Free Trials
 
-You may use the software for brief trial periods to verify that the software works as described, such as by running on test data or integrating into private, proof-of-concept prototypes.
+You may use the software for brief trial periods to verify that the software works as described, such as by running on test data or integrating with a test system.
 
 ### Kids' Projects
 
