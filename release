@@ -27,10 +27,10 @@ summary: terms for free use of projects
 
 EOS
 
-sed '/<!--/d' terms.md |
-  sed "s/VERSION/$version/" |
-  sed '/^\s*$/d' |
-  awk 'ORS="\n\n"' |
+sed '/<!--/d' terms.md | # Remove HTML comments.
+  sed "s/VERSION/$version/" | # Replace version in URL.
+  sed '/^\s*$/d' | # Collapse blank lines.
+  awk 'ORS="\n\n"' | # Add single blank lines.
   head -n -1 >> "build/$version.md"
 
 new_version="$(pwd)/build/$version.md"
