@@ -24,7 +24,7 @@ You may use this software if you are a child below the legal age of adulthood wh
 
 ### Notify of License
 
-Make sure that everyone who gets a copy of any part of the software from you, with or without changes, also gets the text of this license or a link to <https://indiecc.com/free/{{{version}}}>.
+Make sure that everyone who gets a copy of any part of the software from you, with or without changes, also gets the text of this license or a link to <https://indiecc.com/free/VERSION>.
 
 <!-- Adapted from Credit License -->
 
