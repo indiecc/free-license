@@ -16,7 +16,7 @@ You may not use the software in business or paid work, except for [Free Trials](
 
 ### Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, does not count as use in business.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, does not count as use in business or paid work.
 
 ### Free Trials
 
