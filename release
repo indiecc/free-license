@@ -6,9 +6,9 @@ if ! git diff-index --quiet HEAD; then
   exit 1
 fi
 
-version="$(git describe --exact-match --tags 2>/dev/null | sed 's/v//')"
+version="$1"
 if [ -z "$version" ]; then
-  echo "No version tag."
+  echo "Usage: <version>"
   exit 1
 fi
 
